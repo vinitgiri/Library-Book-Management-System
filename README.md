@@ -28,7 +28,7 @@ A simple and efficient **Library Book Management System** designed to manage boo
 
 ## 📂 Project Structure
 
-```text
+```text...
 Library-Book-Management-System/
 │
 ├── src/
