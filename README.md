@@ -22,7 +22,7 @@ A simple and efficient **Library Book Management System** designed to manage boo
 - **Programming Language:** C++ / Java / Python
 - **Database:** MySQL / SQLite
 - **Frontend:** HTML, CSS, JavaScript *(if applicable)*
-- **IDE:** VS Code
+
 
 > Update the technology stack according to the actual implementation of your project.
 
