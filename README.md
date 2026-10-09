@@ -15,7 +15,7 @@ A simple and efficient **Library Book Management System** designed to manage boo
 - 📥 Return issued books
 - 📊 Track book availability
 - 🗑️ Remove books from the library
-- ⚡ Simple and user-friendly interface
+
 
 ## 🛠️ Technologies Used
 
