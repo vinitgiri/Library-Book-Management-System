@@ -17,7 +17,7 @@ A simple and efficient **Library Book Management System** designed to manage boo
 - 🗑️ Remove books from the library
 
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - **Programming Language:** C++ / Java / Python
 - **Database:** MySQL / SQLite
